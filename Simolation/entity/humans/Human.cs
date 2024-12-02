@@ -33,4 +33,9 @@ public class Human
     {
         HumanList.MarriedHumans.Add(father, mother);
     }
+    
+    while isRunning == true
+    {
+        
+    }
 }
